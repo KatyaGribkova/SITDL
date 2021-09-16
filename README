@@ -1,5 +1,10 @@
-Python code for the SITDL model is available here. Note, Python code files should be placed in the same directory. For an example simulation that shows how a synapse's NMDA dynamics change in response to glutamate and voltage signals, run SITDL_Example.py.
 
+
+Python code for the synaptic input time difference learning (SITDL) model. SITDL mechanisms allow a synapse to learn the time difference between glutamate and voltage signals through activity-dependent changes in NMDA receptor expression. 
+In a neuron with redundant silent synapses, SITDL mechanisms, along with synaptic elimination and maturation, enable the neuron to learn and reconstruct its original glutamate signal.
+
+Note, Python code files for SITDL should be placed in the same directory. For an example SITDL simulation that shows how a synapse's NMDA receptor glutamate gate dynamics change in response to glutamate and voltage signals, run SITDL_Example.py.
+All other files, besides SITDL_Functions.py, are used for Excel data generation. CAUTION: Running these may take up a significant amount of memory.
 
 Abstract:
 A largely unexplored question in neuronal plasticity is whether synapses are capable of encoding and learning the timing of synaptic inputs. We address this question in a computational model of synaptic input time difference learning (SITDL), where N‐methyl‐d‐aspartate receptor (NMDAR) isoform expression in silent synapses is affected by time differences between glutamate and voltage signals. We suggest that differences between NMDARs’ glutamate and voltage gate conductances induce modifications of the synapse’s NMDAR isoform population, consequently changing the timing of synaptic response. NMDAR expression at individual synapses can encode the precise time difference between signals. Thus, SITDL enables the learning and reconstruction of signals across multiple synapses of a single neuron. In addition to plausibly predicting the roles of NMDARs in synaptic plasticity, SITDL can be usefully applied in artificial neural network models.
