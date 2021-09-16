@@ -1,5 +1,3 @@
-
-
 Python code for the synaptic input time difference learning (SITDL) model. SITDL mechanisms allow a synapse to learn the time difference between glutamate and voltage signals through activity-dependent changes in NMDA receptor expression. 
 In a neuron with redundant silent synapses, SITDL mechanisms, along with synaptic elimination and maturation, enable the neuron to learn and reconstruct its original glutamate signal.
 
