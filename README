@@ -4,8 +4,7 @@ SITDL mechanisms allow a synapse to learn the time difference between glutamate 
 
 Note, Python code files for SITDL should be placed inside the same directory. For an example SITDL simulation that shows how a synapse's NMDA receptor dynamics change in response to glutamate and voltage signals, run SITDL_Example.py. All other Python code files, besides SITDL_Functions.py, are used for Excel data generation. The MATLAB code files are used for mutual information estimates (see https://github.com/KatyaGribkova/AIMIE for more detail).
 
-CAUTION: Running the Python codes for Excel data generation may take up a significant amount of memory.
+_CAUTION: Running the Python codes for Excel data generation may take up a significant amount of memory._
 
 For more details please see our publication:
 > Gribkova, E. D., & Gillette, R. (2021). Role of NMDAR plasticity in a computational model of synaptic memory. _Scientific reports_, 11(1), 1-16. https://doi.org/10.1038/s41598-021-00516-y.
-> Gribkova, E. D., Catanho, M., & Gillette, R. (2020). Simple Aesthetic Sense and Addiction Emerge in Neural Relations of Cost-Benefit Decision in Foraging. _Scientific reports_, 10(1), 1-11. https://doi.org/10.1038/s41598-020-66465-0
