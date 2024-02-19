@@ -7,5 +7,4 @@ Note, Python code files for SITDL should be placed inside the same directory. Fo
 CAUTION: Running the Python codes for Excel data generation may take up a significant amount of memory.
 
 For more details please see our publication:
-
-    Gribkova, E. D., & Gillette, R. (2021). Role of NMDAR plasticity in a computational model of synaptic memory. Scientific reports, 11(1), 1-16. https://doi.org/10.1038/s41598-021-00516-y.
+>Gribkova, E. D., & Gillette, R. (2021). Role of NMDAR plasticity in a computational model of synaptic memory. _Scientific reports_, 11(1), 1-16. https://doi.org/10.1038/s41598-021-00516-y.
